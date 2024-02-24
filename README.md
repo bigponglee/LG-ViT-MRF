@@ -1,5 +1,19 @@
-# LG-ViT-MRF
- A simple implementation of the LG-ViT Net for MRF reconstruction
+# LG-ViT
+A simple implementation of the LG-ViT for MRF reconstruction: "Deep Magnetic Resonance Fingerprinting Based on Local and Global Vision Transformer"
 
- # COMING SOON
- The code will be available after the publication of the paper.
+# Files
+* 'configs': contains the configuration files
+* 'dataset': data loader
+* 'model': model definition
+* 'utils': utility functions
+* 'train.py': training script
+
+# Requirements
+* PyTorch >=1.13.0
+* numpy
+* scipy
+* einops
+* tensorboard
+
+# References
+* coming soon
