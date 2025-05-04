@@ -16,6 +16,8 @@ A simple implementation of the LG-ViT for MRF reconstruction: "Deep Magnetic Res
 * tensorboard
 
 # References
+If you find this code useful, please cite the following paper:
+```
 @article{li2024deep,
   title={Deep magnetic resonance fingerprinting based on local and global vision transformer},
   author={Li, Peng and Hu, Yue},
@@ -25,3 +27,4 @@ A simple implementation of the LG-ViT for MRF reconstruction: "Deep Magnetic Res
   year={2024},
   publisher={Elsevier}
 }
+```
