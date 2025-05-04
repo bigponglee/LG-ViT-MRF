@@ -16,4 +16,12 @@ A simple implementation of the LG-ViT for MRF reconstruction: "Deep Magnetic Res
 * tensorboard
 
 # References
-* coming soon
+@article{li2024deep,
+  title={Deep magnetic resonance fingerprinting based on local and global vision transformer},
+  author={Li, Peng and Hu, Yue},
+  journal={Medical Image Analysis},
+  volume={95},
+  pages={103198},
+  year={2024},
+  publisher={Elsevier}
+}
